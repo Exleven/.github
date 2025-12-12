@@ -27,10 +27,15 @@ Complete design-to-code workflow with user interface design, prototyping, and pi
 Mobile-first web applications that deliver native app experience with offline functionality, push notifications, and responsive design using modern web technologies and optimized performance.
 
 Why Choose Us:
+
 ✅ 40+ applications built across gaming, fintech, and B2B industries
+
 ✅ Full-cycle development – from wireframes to deployment and maintenance
+
 ✅ International experience – clients in 15+ countries trust my solutions
+
 ✅ High Performance – Deliver 20-40% speed improvements with optimized solutions
+
 ✅ Agile approach – weekly updates, transparent communication, zero missed deadlines
   <div align="left">
     <a href="https://t.me/Exleven_agency" target="_blank">
