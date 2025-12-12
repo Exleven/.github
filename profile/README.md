@@ -6,9 +6,32 @@
 
   ### **`Full Stack Developer | Designer | CMS | Software Engineer`**
 
-  Hello! 👋 We are the Exleven Agency, we have been working in the market for over three years. 😎 Today we successfully cooperate with customers from different countries: Italy, Spain, Poland, Ukraine, France, Portugal, and the USA.
+We build scalable, high-performance web and mobile applications and digital platforms that drive business growth, user engagement, and efficiency from concept to deployment. With 4+ years of specialized experience in full-stack development and modern stack, We have delivered 40+ projects across 15 countries, transforming ideas into robust digital products and custom solutions for growing businesses worldwide.
 
-  Let’s bring your ideas to life and achieve your business goals together!
+⚙️ Full-Stack Web & Mobile Development
+End-to-end development of custom applications using modern frameworks with scalable architecture patterns. From system design to deployment, I create seamless solutions that handle complex business logic, real-time features, and high traffic loads.
+
+⚛️ Frontend Development with React & Next.js
+Dynamic, responsive user interfaces built with React components and Next.js for server-side rendering, SEO-optimized apps, and static generation. Feature-Sliced Design (FSD) architecture for maintainable, scalable frontend codebases with performance, accessibility, and mobile-first approach.
+
+🛡️ Backend Development with Node.js/Express.js/NestJS
+Secure, modular backends using Node.js with Express.js, and NestJS with Clean Architecture principles for RESTful APIs, microservices, and real-time applications. Well-structured database architecture design, authentication systems, and third-party service integrations for maximum reliability and scalability.
+
+🚀 API Integrations & DevOps
+Seamless integrations with external APIs, payment gateways, Keitaro tracking systems, and cloud services. Implementation of CI/CD pipelines, Docker containerization, Cloudflare optimization, and deployment on AWS/Vercel with database architecture for efficient, maintainable systems.
+
+🎨 UI/UX Design & Development
+Complete design-to-code workflow with user interface design, prototyping, and pixel-perfect implementation. Focus on user experience optimization, conversion rates, and intuitive application interfaces.
+
+📱 Progressive Web Apps (PWA)
+Mobile-first web applications that deliver native app experience with offline functionality, push notifications, and responsive design using modern web technologies and optimized performance.
+
+Why Choose Us:
+✅ 40+ applications built across gaming, fintech, and B2B industries
+✅ Full-cycle development – from wireframes to deployment and maintenance
+✅ International experience – clients in 15+ countries trust my solutions
+✅ High Performance – Deliver 20-40% speed improvements with optimized solutions
+✅ Agile approach – weekly updates, transparent communication, zero missed deadlines
   <div align="left">
     <a href="https://t.me/Exleven_agency" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="telegram logo" title="Telegram"/></a>
